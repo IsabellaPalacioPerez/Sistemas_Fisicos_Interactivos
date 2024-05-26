@@ -1,0 +1,30 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\refint\ClaseTCPserver.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.genruntimeconfig.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ref\ClaseTCPserver.dll
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.exe
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.deps.json
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.runtimeconfig.json
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.dll
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\bin\Debug\net6.0\ClaseTCPserver.pdb
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.csproj.AssemblyReference.cache
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.AssemblyInfoInputs.cache
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.AssemblyInfo.cs
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.dll
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\refint\ClaseTCPserver.dll
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.pdb
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ClaseTCPserver.genruntimeconfig.cache
+C:\Users\isapi\Downloads\ClaseTCPserver\ClaseTCPserver\ClaseTCPserver\obj\Debug\net6.0\ref\ClaseTCPserver.dll

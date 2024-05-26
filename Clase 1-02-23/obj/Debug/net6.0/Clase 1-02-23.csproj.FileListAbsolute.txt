@@ -1,0 +1,15 @@
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\bin\Debug\net6.0\Clase 1-02-23.exe
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\bin\Debug\net6.0\Clase 1-02-23.deps.json
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\bin\Debug\net6.0\Clase 1-02-23.runtimeconfig.json
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\bin\Debug\net6.0\Clase 1-02-23.dll
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\bin\Debug\net6.0\Clase 1-02-23.pdb
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.csproj.AssemblyReference.cache
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.AssemblyInfoInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.AssemblyInfo.cs
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.dll
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\refint\Clase 1-02-23.dll
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.pdb
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\Clase 1-02-23.genruntimeconfig.cache
+C:\Users\isapi\Documents\U\2023\SFI\Clase 1-02-23\obj\Debug\net6.0\ref\Clase 1-02-23.dll

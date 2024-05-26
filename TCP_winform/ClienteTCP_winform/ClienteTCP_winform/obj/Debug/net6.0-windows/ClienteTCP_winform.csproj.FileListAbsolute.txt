@@ -1,0 +1,34 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.Form1.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\refint\ClienteTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.genruntimeconfig.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ref\ClienteTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.exe
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.deps.json
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.runtimeconfig.json
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\bin\Debug\net6.0-windows\ClienteTCP_winform.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.AssemblyReference.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.Form1.resources
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.GenerateResource.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.AssemblyInfoInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.AssemblyInfo.cs
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\refint\ClienteTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ClienteTCP_winform.genruntimeconfig.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ClienteTCP_winform\ClienteTCP_winform\obj\Debug\net6.0-windows\ref\ClienteTCP_winform.dll

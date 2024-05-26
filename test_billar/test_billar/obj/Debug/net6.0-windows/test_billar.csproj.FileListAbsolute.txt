@@ -1,0 +1,17 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\bin\Debug\net6.0-windows\test_billar.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\bin\Debug\net6.0-windows\test_billar.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\bin\Debug\net6.0-windows\test_billar.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\bin\Debug\net6.0-windows\test_billar.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\bin\Debug\net6.0-windows\test_billar.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.Form1.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\refint\test_billar.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\test_billar.genruntimeconfig.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\test_billar\test_billar\obj\Debug\net6.0-windows\ref\test_billar.dll

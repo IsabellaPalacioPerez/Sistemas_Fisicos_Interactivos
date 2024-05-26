@@ -1,0 +1,15 @@
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\bin\Debug\net6.0\TCPServer_ThreadCola.exe
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\bin\Debug\net6.0\TCPServer_ThreadCola.deps.json
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\bin\Debug\net6.0\TCPServer_ThreadCola.runtimeconfig.json
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\bin\Debug\net6.0\TCPServer_ThreadCola.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\bin\Debug\net6.0\TCPServer_ThreadCola.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.csproj.AssemblyReference.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.AssemblyInfoInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.AssemblyInfo.cs
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\refint\TCPServer_ThreadCola.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\TCPServer_ThreadCola.genruntimeconfig.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCPServer_ThreadCola\obj\Debug\net6.0\ref\TCPServer_ThreadCola.dll

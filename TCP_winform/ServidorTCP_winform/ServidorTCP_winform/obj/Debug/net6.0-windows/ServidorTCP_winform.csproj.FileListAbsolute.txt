@@ -1,0 +1,34 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.Form1.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\refint\ServidorTCP_winform.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.genruntimeconfig.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ref\ServidorTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.exe
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.deps.json
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.runtimeconfig.json
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\bin\Debug\net6.0-windows\ServidorTCP_winform.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.AssemblyReference.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.Form1.resources
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.GenerateResource.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.AssemblyInfoInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.AssemblyInfo.cs
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\refint\ServidorTCP_winform.dll
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.pdb
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ServidorTCP_winform.genruntimeconfig.cache
+C:\Users\isapi\Documents\U\2023\SFI\TCP_winform\ServidorTCP_winform\ServidorTCP_winform\obj\Debug\net6.0-windows\ref\ServidorTCP_winform.dll

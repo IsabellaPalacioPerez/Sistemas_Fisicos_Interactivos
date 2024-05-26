@@ -1,0 +1,16 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.runtimeconfig.dev.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\bin\Debug\netcoreapp3.1\ServerBillar.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.main.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2_2022\Server_trabajo2\obj\Debug\netcoreapp3.1\ServerBillar.genruntimeconfig.cache

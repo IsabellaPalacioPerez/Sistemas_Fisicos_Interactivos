@@ -1,0 +1,15 @@
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\bin\Debug\net6.0\ClaseTPCServer.exe
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\bin\Debug\net6.0\ClaseTPCServer.deps.json
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\bin\Debug\net6.0\ClaseTPCServer.runtimeconfig.json
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\bin\Debug\net6.0\ClaseTPCServer.dll
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\bin\Debug\net6.0\ClaseTPCServer.pdb
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.csproj.AssemblyReference.cache
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.AssemblyInfoInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.AssemblyInfo.cs
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.csproj.CoreCompileInputs.cache
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.dll
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\refint\ClaseTPCServer.dll
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.pdb
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ClaseTPCServer.genruntimeconfig.cache
+C:\Users\isapi\Documents\U\2023\SFI\ClaseTPCServer\obj\Debug\net6.0\ref\ClaseTPCServer.dll

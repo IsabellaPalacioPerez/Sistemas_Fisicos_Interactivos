@@ -1,0 +1,32 @@
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.runtimeconfig.dev.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.main.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.genruntimeconfig.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.exe
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.deps.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.runtimeconfig.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.runtimeconfig.dev.json
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\bin\Debug\netcoreapp3.1\Server_trabajo2.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.AssemblyReference.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.main.resources
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.GenerateResource.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.AssemblyInfoInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.AssemblyInfo.cs
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.dll
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.pdb
+C:\Users\Laboratorio UPB.N00023980\Documents\visualstrudio_devs\Server_trabajo2 - 2022\Server_trabajo2\obj\Debug\netcoreapp3.1\Server_trabajo2.genruntimeconfig.cache
